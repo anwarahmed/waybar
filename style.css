@@ -47,11 +47,13 @@
 
 #tray {
   margin-right: 16px;
+  margin-left: 8px;
   font-size: 24px;
 }
 
 #bluetooth {
   margin-right: 17px;
+  margin-left: 8px;
   font-size: 24px;
 }
 
@@ -61,7 +63,7 @@
 }
 
 #custom-expand-icon {
-  margin-right: 18px;
+  margin-right: 10px;
   font-size: 24px;
 }
 
