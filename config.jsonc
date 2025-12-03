@@ -98,7 +98,7 @@
     }
   },
   "bluetooth": {
-    "format": "",
+    "format": "󰂯",
     "format-disabled": "󰂲",
     "format-off": "󰂲",
     "format-connected": "󰂱",
