@@ -30,6 +30,9 @@
   opacity: 0.5;
 }
 
+#cpu,
+#battery,
+#pulseaudio,
 #custom-omarchy,
 #custom-screenrecording-indicator,
 #custom-update {
@@ -39,25 +42,21 @@
 }
 
 #cpu {
-  min-width: 12px;
-  margin: 0 7.5px;
+  margin-top: 1px;
   font-size: 22px;
 }
 
-#pulseaudio {
-  min-width: 12px;
-  margin: 0 7.5px;
-  font-size: 30px;
-}
-
 #battery {
-  min-width: 12px;
-  margin: 0 7.5px;
+  margin-top: 1px;
   font-size: 16px;
 }
 
+#pulseaudio {
+  font-size: 28px;
+}
+
 #custom-omarchy {
-  font-size: 20px;
+  font-size: 16px;
 }
 
 #tray {
@@ -69,10 +68,11 @@
 #bluetooth {
   margin-right: 17px;
   margin-left: 8px;
-  font-size: 16px;
+  font-size: 18px;
 }
 
 #network {
+  margin-top: 1px;
   margin-right: 13px;
   font-size: 24px;
 }
