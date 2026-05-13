@@ -127,8 +127,8 @@ tooltip {
 
 #custom-weather {
   font-size: 28px;
-  margin-left: 7.5px;
-  margin-right: 7.5px;
+  margin-left: 12px;
+  margin-right: 12px;
 }
 
 #custom-weather.unavailable {
