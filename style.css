@@ -34,7 +34,6 @@
 #battery,
 #pulseaudio,
 #custom-omarchy,
-
 #custom-update {
   min-width: 12px;
   margin: 0 7.5px;
@@ -98,7 +97,6 @@ tooltip {
   opacity: 0;
 }
 
-
 #custom-screenrecording-indicator,
 #custom-idle-indicator,
 #custom-notification-silencing-indicator {
@@ -128,8 +126,9 @@ tooltip {
 }
 
 #custom-weather {
-  margin-left: 7.5px;
-  margin-right: 7.5px;
+  font-size: 28px;
+  margin-left: 12px;
+  margin-right: 12px;
 }
 
 #custom-weather.unavailable {
